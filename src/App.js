@@ -36,7 +36,7 @@ function App() {
             <button onClick={() => handleRemoveRepository(repository.id)}>
               Remover
             </button>
-          </li>
+          </li> 
         ))}
       </ul>
 
